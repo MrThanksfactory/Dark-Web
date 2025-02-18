@@ -1,0 +1,42 @@
+body {
+	background-color: #ff6600;
+}
+.h6 {
+	background-color: #98C4BD;
+    color: black;
+    text-align: center;
+    font-size: 8pt;
+}
+.centrer {
+	text-align: center;
+}
+iframe {
+	border: 0;
+}
+.abbr2et3,#blanc,h2,p {	
+	color: white;
+}
+.noir,blockquote {
+	color: #374255;
+}
+.bleuciel {
+	color: lightskyblue;
+}
+.grisclair {
+	color: gainsboro;
+}
+#grisfoncé {
+	color:darkgray;
+}
+.pouce_leve {
+	list-style-type: "\1F44D";
+}
+.avantages {
+	background-color: #98C4BD;
+}
+.gold {
+	background-color: #FFD700;
+}
+.back {
+	list-style-type: "\01F519";
+}
