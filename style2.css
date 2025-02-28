@@ -1,5 +1,6 @@
 body {
 	background-color: #ff6600;
+	background-color: burlywood;
 }
 .h6 {
 	background-color: #98C4BD;
@@ -21,12 +22,13 @@ iframe {
 }
 .bleuciel {
 	color: lightskyblue;
+	color: cyan;
 }
 .grisclair {
 	color: gainsboro;
 }
 #grisfoncé {
-	color:darkgray;
+	color: darkgray;
 }
 .pouce_leve {
 	list-style-type: "\1F44D";
@@ -39,4 +41,10 @@ iframe {
 }
 .back {
 	list-style-type: "\01F519";
+}
+.degrade {
+	background: linear-gradient(to right, red, violet);
+  }
+.fond_blanc {
+	background-color: gainsboro
 }
