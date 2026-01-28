@@ -1,7 +1,7 @@
 body {
 	background: #2A7B9B;
-	background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
-	background-color: burlywood;
+	background: #50C878;
+	background: linear-gradient(90deg,rgba(80, 200, 120, 1) 0%, rgba(0, 212, 255, 1) 100%);
 }
 .h6 {
 	background-color: #98C4BD;
@@ -49,4 +49,5 @@ iframe {
 .fond_blanc {
 	background-color: gainsboro
 }
+
 
