@@ -18,7 +18,7 @@ iframe {
 .abbr2et3,#blanc,h2,p {	
 	color: white;
 }
-.noir,blockquote {
+#noir,blockquote {
 	color: #374255;
 }
 .bleuciel {
@@ -49,5 +49,6 @@ iframe {
 .fond_blanc {
 	background-color: gainsboro
 }
+
 
 
