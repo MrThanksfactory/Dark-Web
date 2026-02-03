@@ -45,10 +45,14 @@ iframe {
 }
 .degrade {
 	background: linear-gradient(to right, red, violet);
+	-webkit-background-clip: text; /* nécessaire pour Chrome/Safari */
+	background-clip: text;
+	color: transparent; /* rend le texte transparent pour voir le dégradé */
   }
 .fond_blanc {
 	background-color: gainsboro
 }
+
 
 
 
