@@ -2,6 +2,8 @@ body {
 	background: #2A7B9B;
 	background: #50C878;
 	background: linear-gradient(90deg,rgba(80, 200, 120, 1) 0%, rgba(0, 212, 255, 1) 100%);
+	font-family: 'sans-serif';
+	font-display: swap;
 }
 .h6 {
 	background-color: #98C4BD;
@@ -44,12 +46,12 @@ iframe {
 	list-style-type: "\01F519";
 }
 .degrade {
-	background: linear-gradient(to right, red, violet);
-	background-clip: text;
+	background: linear-gradient(to right, red, violet)
   }
 .fond_blanc {
 	background-color: gainsboro
 }
+
 
 
 
