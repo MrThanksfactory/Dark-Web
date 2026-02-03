@@ -3,6 +3,7 @@ body {
 	background: #50C878;
 	background: linear-gradient(90deg,rgba(80, 200, 120, 1) 0%, rgba(0, 212, 255, 1) 100%);
 	font-family: 'sans-serif';
+	src: local("Times New Roman");
 	font-display: swap;
 }
 .h6 {
@@ -51,6 +52,7 @@ iframe {
 .fond_blanc {
 	background-color: gainsboro
 }
+
 
 
 
