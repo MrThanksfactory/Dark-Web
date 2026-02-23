@@ -25,7 +25,6 @@ iframe {
 	color: #374255;
 }
 .bleuciel {
-	color: lightskyblue;
 	color: cyan;
 }
 .grisclair {
@@ -54,7 +53,7 @@ iframe {
 }
 .degrade {
 	background: linear-gradient(to right, red, violet)
-  }
+}
 .fond_blanc {
 	background-color: gainsboro
 }
@@ -64,16 +63,4 @@ button{
 .black_h1{
 	font-size:40px;color:black
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
