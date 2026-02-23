@@ -37,6 +37,12 @@ iframe {
 .pouce_leve {
 	list-style-type: "\1F44D";
 }
+.poucedown {
+  list-style-type: "\1F44E";
+}
+.doigt_right {
+  list-style-type: "\01F449";
+}
 .avantages {
 	background-color: #98C4BD;
 }
@@ -58,6 +64,7 @@ button,.linck{
 .black_h1{
 	font-size:40px;color:black
 }
+
 
 
 
